@@ -1,2 +1,2 @@
-# java-learning
- learning java concepts
+# Java-learning
+## Learning java concepts

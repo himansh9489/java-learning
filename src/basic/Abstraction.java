@@ -54,8 +54,8 @@ public class Abstraction {
         Horse horse = new Horse();
         horse.walk();
         horse.eat();
-        // Animal  animal = new Animal();
-        // we can not create instance of Animal class
+//        Animal  animal = new Animal();
+//        we can not create instance of Animal class
     }
 
 }
